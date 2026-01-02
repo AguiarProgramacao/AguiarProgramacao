@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafael Aguiar 🚀
 
-🎯 **Desenvolvedor Júnior focado em fundamentos sólidos, boas práticas e entrega de soluções reais.**  
+🎯 **Desenvolvedor focado em fundamentos sólidos, boas práticas e entrega de soluções reais.**  
 Atuo com desenvolvimento **Full Stack**, criando aplicações web e mobile com arquitetura organizada, código limpo e foco em resolver problemas do mundo real.
 
 Atualmente busco **oportunidades como Desenvolvedor Júnior**, onde eu possa evoluir tecnicamente, aprender com times experientes e gerar impacto através da programação.
@@ -10,32 +10,16 @@ Atualmente busco **oportunidades como Desenvolvedor Júnior**, onde eu possa evo
 ## 🔗 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.instagram.com/aguiarprogramacao" target="_blank">
+  <a href="https://www.instagram.com/aguiar.programador" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafael-aguiar" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-rafael-aguiar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5521974633634" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor que acredita que **bons sistemas nascem de fundamentos bem aplicados**.
-
-Tenho experiência prática no desenvolvimento de:
-- **APIs REST**
-- **Dashboards administrativos**
-- **Sistemas de gestão**
-- **Integrações com serviços externos**
-- **Automação de processos**
-- **Aplicações com autenticação, permissões e regras de negócio**
-
-Gosto de entender **o porquê das coisas**, estudar arquitetura, organizar código e pensar em escalabilidade, mesmo em projetos pequenos.
 
 ---
 
@@ -88,36 +72,7 @@ Gosto de entender **o porquê das coisas**, estudar arquitetura, organizar códi
 - Tratamento de erros
 - Versionamento com Git
 - Commits claros e objetivos
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔹 Portal Michelon – Plataforma Jurídica
-Sistema web e mobile para gestão de processos jurídicos de cidadania e vistos.
-
-**Principais funcionalidades:**
-- Autenticação e permissões por usuário
-- Dashboard administrativo
-- Gestão de clientes e documentos
-- Upload de arquivos com Supabase Storage
-- Checklists dinâmicos por tipo de processo
-- Geração de PDFs
-- Integração com APIs externas
-- Aplicativo mobile com React Native
-
-**Stack:** React, React Native, TypeScript, Supabase, PostgreSQL, Node.js
-
----
-
-### 🔹 Sistemas de Gestão e Dashboards
-Desenvolvimento de sistemas administrativos com foco em:
-- Controle financeiro
-- Gráficos e relatórios
-- Integração com pagamentos
-- Automação de rotinas
-- Experiência do usuário
-
+  
 ---
 
 ## 📊 GitHub Stats
